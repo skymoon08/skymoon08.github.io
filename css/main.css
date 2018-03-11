@@ -1148,6 +1148,11 @@ pre .javascript .function {
   position: relative;
   top: -10px;
 }
+@media (max-width: 767px) {
+  .site-subtitle {
+    display: none;
+  }
+}
 .site-nav-toggle {
   display: none;
   position: absolute;
@@ -1225,6 +1230,14 @@ pre .javascript .function {
   .post-body {
     word-break: break-word;
   }
+}
+.post-body p a {
+  color: #0593d3;
+  border-bottom: none;
+}
+.post-body p a:hover {
+  color: #0477ab;
+  text-decoration: underline;
 }
 .post-body .fancybox img {
   display: block !important;
@@ -1822,7 +1835,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3b78cd;
+  background: #f5cdff;
 }
 .links-of-blogroll {
   font-size: 13px;
