@@ -85,18 +85,18 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
 
 
 
-<meta name="description" content="线程和进程定义进程： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，是系统进行资源分配和调度的一个独立单位。 线程：是在进程中独立运行的子任务。   使用多线程就是在使用异步  Java多线程编程主要两种编程方式： 继承Thread类： 不支持多继承，继承Thread，并重写run方法：   实现Runnable接口：">
+<meta name="description" content="线程和进程定义进程： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，是系统进行资源分配和调度的一个独立单位。 线程：是在进程中独立运行的子任务。   使用多线程就是在使用异步  Java多线程编程主要两种编程方式： 继承Thread类： 不支持多继承，继承Thread，并重写run方法：  1   实现Runnable接口">
 <meta name="keywords" content="Java,多线程">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Java多线程 Chapter 1">
 <meta property="og:url" content="https://skymoon08.github.io/2018/03/11/Pro/index.html">
 <meta property="og:site_name" content="zhangsunny">
-<meta property="og:description" content="线程和进程定义进程： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，是系统进行资源分配和调度的一个独立单位。 线程：是在进程中独立运行的子任务。   使用多线程就是在使用异步  Java多线程编程主要两种编程方式： 继承Thread类： 不支持多继承，继承Thread，并重写run方法：   实现Runnable接口：">
+<meta property="og:description" content="线程和进程定义进程： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，是系统进行资源分配和调度的一个独立单位。 线程：是在进程中独立运行的子任务。   使用多线程就是在使用异步  Java多线程编程主要两种编程方式： 继承Thread类： 不支持多继承，继承Thread，并重写run方法：  1   实现Runnable接口">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-03-11T13:09:47.447Z">
+<meta property="og:updated_time" content="2018-03-12T14:21:22.954Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Java多线程 Chapter 1">
-<meta name="twitter:description" content="线程和进程定义进程： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，是系统进行资源分配和调度的一个独立单位。 线程：是在进程中独立运行的子任务。   使用多线程就是在使用异步  Java多线程编程主要两种编程方式： 继承Thread类： 不支持多继承，继承Thread，并重写run方法：   实现Runnable接口：">
+<meta name="twitter:description" content="线程和进程定义进程： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，是系统进行资源分配和调度的一个独立单位。 线程：是在进程中独立运行的子任务。   使用多线程就是在使用异步  Java多线程编程主要两种编程方式： 继承Thread类： 不支持多继承，继承Thread，并重写run方法：  1   实现Runnable接口">
 
 
 
@@ -363,7 +363,7 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
                 <span title="字数统计">
-                  150
+                  151
                 </span>
               
 
@@ -404,10 +404,11 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
 <p><strong>线程</strong>：是在进程中独立运行的子任务。  </p>
 <p><strong><em>使用多线程就是在使用异步</em></strong> </p>
 <h2 id="Java多线程编程主要两种编程方式："><a href="#Java多线程编程主要两种编程方式：" class="headerlink" title="Java多线程编程主要两种编程方式："></a>Java多线程编程主要两种编程方式：</h2><ul>
-<li><strong>继承Thread类</strong>： 不支持<strong>多继承</strong>，继承Thread，并重写run方法：</li>
-</ul>
-<ul>
-<li><strong>实现Runnable接口</strong>：</li>
+<li><p><strong>继承Thread类</strong>： 不支持<strong>多继承</strong>，继承Thread，并重写run方法： </p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"> </span><br></pre></td></tr></table></figure>
+</li>
+<li><p><strong>实现Runnable接口</strong>：</p>
+</li>
 </ul>
 
       
@@ -415,6 +416,7 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
     
     
     
+
     
       <div>
         <div id="wechat_subscriber" style="display: block; padding: 10px 0; margin: 20px auto; width: 100%; text-align: center">
@@ -427,17 +429,6 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
 
     
 
-    
-
-
-    
-      <div>
-        
-<div style="text-align:center;color: #ccc;font-size:14px;">
-		------ 本文结束 ------
-</div>
-
-      </div>
     
 
     <footer class="post-footer">
@@ -666,7 +657,7 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
     
       <span class="post-meta-item-text">Site words total count&#58;</span>
     
-    <span title="Site words total count">242</span>
+    <span title="Site words total count">243</span>
   
 </div>
 
