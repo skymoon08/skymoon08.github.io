@@ -1,26 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[博客简介]]></title>
-    <url>%2F2018%2F03%2F11%2Ffirstblog%2F</url>
-    <content type="text"><![CDATA[ZhangSunny的First Blog个人博客简介 作为一枚计科专业的码农，2014年开始从事后端应用开发至今，将日常工作中遇到的问题、个人知识积累、个人见解和“打怪升级”晋级的经验分享于自己的博客，欢迎广大技术蜀黍来此博客分享自己的“故事”。]]></content>
+<search> 
+  
+    
+    <entry>
+      <title>博客简介</title>
+      <link href="/2018/03/11/firstblog/"/>
+      <content type="html"><![CDATA[<h2 id="ZhangSunny的First-Blog"><a href="#ZhangSunny的First-Blog" class="headerlink" title="ZhangSunny的First Blog"></a>ZhangSunny的First Blog</h2><h3 id="个人博客简介"><a href="#个人博客简介" class="headerlink" title="个人博客简介"></a>个人博客简介</h3><p>    作为一枚计科专业的码农，2014年开始从事后端应用开发至今，将日常工作中遇到的问题、个人知识积累、个人见解和“打怪升级”晋级的经验分享于自己的博客，欢迎广大技术蜀黍来此博客分享自己的“故事”。</p>]]></content>
+      
       <categories>
-        <category>简言</category>
+          
+          <category> 简言 </category>
+          
       </categories>
-      <tags>
-        <tag>个人</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Java多线程 Chapter 1]]></title>
-    <url>%2F2018%2F03%2F11%2FPro%2F</url>
-    <content type="text"><![CDATA[线程和进程定义进程： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，是系统进行资源分配和调度的一个独立单位。 线程：是在进程中独立运行的子任务。 使用多线程就是在使用异步 Java多线程编程主要两种编程方式： 继承Thread类： 不支持多继承，继承Thread，并重写run方法： 实现Runnable接口：]]></content>
+      
+      
+        <tags>
+            
+            <tag> 个人 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Java多线程 Chapter 1</title>
+      <link href="/2018/03/11/Pro/"/>
+      <content type="html"><![CDATA[<h2 id="线程和进程定义"><a href="#线程和进程定义" class="headerlink" title="线程和进程定义"></a>线程和进程定义</h2><p><strong>进程</strong>： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，<em>是系统进行资源分配和调度的一个独立单位</em>。</p><p><strong>线程</strong>：是在进程中独立运行的子任务。  </p><p><strong><em>使用多线程就是在使用异步</em></strong> </p><h2 id="Java多线程编程主要两种编程方式："><a href="#Java多线程编程主要两种编程方式：" class="headerlink" title="Java多线程编程主要两种编程方式："></a>Java多线程编程主要两种编程方式：</h2><ul><li><p><strong>继承Thread类</strong>： 不支持<strong>多继承</strong>，继承Thread，并重写run方法： </p><pre>  <code>  </code></pre></li><li><p><strong>实现Runnable接口</strong>：</p></li></ul>]]></content>
+      
       <categories>
-        <category>Java Multi-thread Pro</category>
+          
+          <category> Java Multi-thread Pro </category>
+          
       </categories>
-      <tags>
-        <tag>Java</tag>
-        <tag>多线程</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> 多线程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
 </search>
