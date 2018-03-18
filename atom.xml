@@ -46,9 +46,9 @@
     <link href="https://skymoon08.github.io/2018/03/11/Pro/"/>
     <id>https://skymoon08.github.io/2018/03/11/Pro/</id>
     <published>2018-03-11T11:33:55.000Z</published>
-    <updated>2018-03-18T05:15:18.076Z</updated>
+    <updated>2018-03-18T08:42:21.114Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="线程和进程定义"><a href="#线程和进程定义" class="headerlink" title="线程和进程定义"></a>线程和进程定义</h2><p><strong>进程</strong>： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，<em>是系统进行资源分配和调度的一个独立单位</em>。</p><p><strong>线程</strong>：是在进程中独立运行的子任务。  </p><p><strong><em>使用多线程就是在使用异步</em></strong> </p><h2 id="Java多线程编程主要两种编程方式："><a href="#Java多线程编程主要两种编程方式：" class="headerlink" title="Java多线程编程主要两种编程方式："></a>Java多线程编程主要两种编程方式：</h2><ul><li><p><strong>继承Thread类</strong>： 不支持<strong>多继承</strong>，继承Thread，并重写run方法： </p><pre>  <code>  </code></pre></li><li><p><strong>实现Runnable接口</strong>：</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="线程和进程定义"><a href="#线程和进程定义" class="headerlink" title="线程和进程定义"></a>线程和进程定义</h2><p><strong>进程</strong>： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，<em>是系统进行资源分配和调度的一个独立单位</em>。</p><p><strong>线程</strong>：是在进程中独立运行的子任务。  </p><p><strong><em>使用多线程就是在使用异步</em></strong> </p><h2 id="Java多线程编程主要两种编程方式："><a href="#Java多线程编程主要两种编程方式：" class="headerlink" title="Java多线程编程主要两种编程方式："></a>Java多线程编程主要两种编程方式：</h2><ul><li><strong>继承Thread类</strong>： 不支持<strong>多继承</strong>，继承Thread，并重写run方法： <pre>  <code>package thread;public class Mytread extends Thread {      @Override       public void run(){          super.run();          System.out.println("========= Mytread ========");   }}  </code></pre>**运行类代码**<pre>  <code>          package thread;      public class ThreadRunDemo {                  public static void main(String[] args) {              Mytread mytread = new Mytread();              mytread.start();              System.out.println("====END!==");          }      }  </code></pre></li></ul><ul><li><strong>实现Runnable接口</strong>：</li></ul><p>d</p>]]></content>
     
     <summary type="html">
     
