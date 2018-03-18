@@ -109,7 +109,7 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
 <meta property="og:site_name" content="zhangsunny">
 <meta property="og:description" content="线程和进程定义进程： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，是系统进行资源分配和调度的一个独立单位。 线程：是在进程中独立运行的子任务。   使用多线程就是在使用异步  Java多线程编程主要两种编程方式： 继承Thread类： 不支持多继承，继承Thread，并重写run方法：  package thread;p">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-03-18T08:48:14.468Z">
+<meta property="og:updated_time" content="2018-03-18T08:51:28.856Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Java多线程 Chapter 1">
 <meta name="twitter:description" content="线程和进程定义进程： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，是系统进行资源分配和调度的一个独立单位。 线程：是在进程中独立运行的子任务。   使用多线程就是在使用异步  Java多线程编程主要两种编程方式： 继承Thread类： 不支持多继承，继承Thread，并重写run方法：  package thread;p">
@@ -459,7 +459,7 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
  public void run(){
     super.run();
     System.out.println(&quot;========= Mytread ========&quot;);
-</code></pre><p>   }<br>}<br>  <br><br><strong>运行类代码</strong><br><pre><br>  <code>    </code></pre></p>
+</code></pre><p>   }<br>}<br>  <br><br><strong>运行类代码</strong><br><pre><br>  <code></code></pre></p>
 <pre><code>package thread;
 public class ThreadRunDemo {
             public static void main(String[] args) {
@@ -468,7 +468,7 @@ public class ThreadRunDemo {
         System.out.println(&quot;====END!==&quot;);
     }
 }
-</code></pre><p>  <br><br><strong><em>注：</em></strong> Thread 的<strong>start()</strong>方法使线程处于<strong>就绪状态</strong>，<strong>run()</strong>方法使得线程得到运行，是同步，调用thread.run()就不是异步执行，而是由主线程来调用<strong>run()</strong>方法。</p>
+</code></pre><p><br><br><strong><em>注：</em></strong> Thread 的<strong>start()</strong>方法使线程处于<strong>就绪状态</strong>，<strong>run()</strong>方法使得线程得到运行，是同步，调用thread.run()就不是异步执行，而是由主线程来调用<strong>run()</strong>方法。</p>
 </li>
 <li><p><strong>实现Runnable接口</strong>：</p>
 </li>
