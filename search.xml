@@ -14,7 +14,7 @@
   <entry>
     <title><![CDATA[Java多线程 Chapter 1]]></title>
     <url>%2F2018%2F03%2F11%2FPro%2F</url>
-    <content type="text"><![CDATA[线程和进程定义进程： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，是系统进行资源分配和调度的一个独立单位。 线程：是在进程中独立运行的子任务。 使用多线程就是在使用异步 Java多线程编程主要两种编程方式： 继承Thread类： 不支持多继承，继承Thread，并重写run方法： package thread;public class Mytread extends Thread {@Override public void run(){ super.run(); System.out.println(&quot;========= Mytread ========&quot;); }} 运行类代码 package thread; public class ThreadRunDemo { public static void main(String[] args) { Mytread mytread = new Mytread(); mytread.start(); System.out.println(&quot;====END!==&quot;); } } 注： 1.Thread 的start()方法使线程处于就绪状态，run()方法使得线程得到运行，是同步，调用thread.run()就不是异步执行，而是由主线程来调用run()方法。 实现Runnable接口：]]></content>
+    <content type="text"><![CDATA[线程和进程定义进程： 是操作系统结构的基础，是一次程序的执行，是一个程序及其数据在处理机上顺序执行时发生的活动，是程序在一个数据集合运行的过程，是系统进行资源分配和调度的一个独立单位。 线程：是在进程中独立运行的子任务。 使用多线程就是在使用异步 Java多线程编程主要两种编程方式： 继承Thread类： 不支持多继承，继承Thread，并重写run方法： package thread;public class Mytread extends Thread { @Override public void run(){ super.run(); System.out.println(&quot;========= Mytread ========&quot;); }} 运行类代码 package thread; public class ThreadRunDemo { public static void main(String[] args) { Mytread mytread = new Mytread(); mytread.start(); System.out.println(&quot;====END!==&quot;); } } 注： Thread 的start()方法使线程处于就绪状态，run()方法使得线程得到运行，是同步，调用thread.run()就不是异步执行，而是由主线程来调用run()方法。 实现Runnable接口：]]></content>
       <categories>
         <category>Java Multi-thread Pro</category>
       </categories>

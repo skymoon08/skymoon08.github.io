@@ -601,7 +601,7 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
                 <span title="字数统计">
-                  246
+                  245
                 </span>
               
 
@@ -644,11 +644,13 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
 <p><strong>线程</strong>：是在进程中独立运行的子任务。  </p>
 <p><strong><em>使用多线程就是在使用异步</em></strong> </p>
 <h2 id="Java多线程编程主要两种编程方式："><a href="#Java多线程编程主要两种编程方式：" class="headerlink" title="Java多线程编程主要两种编程方式："></a>Java多线程编程主要两种编程方式：</h2><ul>
-<li><strong>继承Thread类</strong>： 不支持<strong>多继承</strong>，继承Thread，并重写run方法：<br><pre><br>  <code><br>package thread;<br>public class Mytread extends Thread {<pre><code>@Override
+<li><p><strong>继承Thread类</strong>： 不支持<strong>多继承</strong>，继承Thread，并重写run方法：<br><pre><br>  <code><br>package thread;<br>public class Mytread extends Thread {</code></pre></p>
+<pre><code>@Override
  public void run(){
     super.run();
     System.out.println(&quot;========= Mytread ========&quot;);
-</code></pre>   }<br>}<br>  </code><br></pre><br><strong>运行类代码</strong><br><pre><br>  <code>    <pre><code>package thread;
+</code></pre><p>   }<br>}<br>  <br><br><strong>运行类代码</strong><br><pre><br>  <code>    </code></pre></p>
+<pre><code>package thread;
 public class ThreadRunDemo {
             public static void main(String[] args) {
         Mytread mytread = new Mytread();
@@ -656,11 +658,10 @@ public class ThreadRunDemo {
         System.out.println(&quot;====END!==&quot;);
     }
 }
-</code></pre>  </code><br></pre><br><strong><em>注：</em></strong> </li>
-</ul>
-<p>1.Thread 的<strong>start()</strong>方法使线程处于<strong>就绪状态</strong>，<strong>run()</strong>方法使得线程得到运行，是同步，调用thread.run()就不是异步执行，而是由主线程来调用<strong>run()</strong>方法。</p>
-<ul>
-<li><strong>实现Runnable接口</strong>：</li>
+</code></pre><p>  <br><br><strong><em>注：</em></strong> Thread 的<strong>start()</strong>方法使线程处于<strong>就绪状态</strong>，<strong>run()</strong>方法使得线程得到运行，是同步，调用thread.run()就不是异步执行，而是由主线程来调用<strong>run()</strong>方法。</p>
+</li>
+<li><p><strong>实现Runnable接口</strong>：</p>
+</li>
 </ul>
 
           
