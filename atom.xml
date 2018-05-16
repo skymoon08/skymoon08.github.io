@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://skymoon08.github.io/"/>
-  <updated>2018-05-16T15:13:39.534Z</updated>
+  <updated>2018-05-16T16:00:04.456Z</updated>
   <id>https://skymoon08.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JS前端技术集</title>
+    <link href="https://skymoon08.github.io/2018/05/16/JS%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E9%9B%86/"/>
+    <id>https://skymoon08.github.io/2018/05/16/JS前端技术集/</id>
+    <published>2018-05-16T15:56:58.000Z</published>
+    <updated>2018-05-16T16:00:04.456Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前端"><a href="#前端" class="headerlink" title="前端"></a>前端</h2><ul><li><a href="https://segmentfault.com/a/1190000014894036?utm_source=index-hottest" target="_blank" rel="noopener">看了一张图终于明白啥是闭包了</a></li><li><a href="https://segmentfault.com/a/1190000014893670?utm_source=index-hottest" target="_blank" rel="noopener">智能合约语言 Solidity 教程系列9 - 错误处理</a></li><li><a href="https://segmentfault.com/a/1190000014893012?utm_source=index-hottest" target="_blank" rel="noopener">Nginx入门到实战（1）基础篇</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;前端&quot;&gt;&lt;a href=&quot;#前端&quot; class=&quot;headerlink&quot; title=&quot;前端&quot;&gt;&lt;/a&gt;前端&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000014894036?utm_source=
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://skymoon08.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JS" scheme="https://skymoon08.github.io/tags/JS/"/>
+    
+  </entry>
   
   <entry>
     <title>Java并发</title>
