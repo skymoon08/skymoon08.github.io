@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://skymoon08.github.io/"/>
-  <updated>2018-03-18T05:30:28.478Z</updated>
+  <updated>2018-05-16T15:10:22.132Z</updated>
   <id>https://skymoon08.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java并发</title>
+    <link href="https://skymoon08.github.io/2018/05/16/Java%E5%B9%B6%E5%8F%91/"/>
+    <id>https://skymoon08.github.io/2018/05/16/Java并发/</id>
+    <published>2018-05-16T13:57:23.000Z</published>
+    <updated>2018-05-16T15:10:22.132Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Zookeeper"><a href="#Zookeeper" class="headerlink" title="Zookeeper"></a>Zookeeper</h2><ul><li><a href="https://juejin.im/post/5a3b542d6fb9a0452725c25f" target="_blank" rel="noopener">Zookeeper总览（翻译自Zookeeper官方网站Release 3.4.11版本</a></li><li><a href="https://blog.csdn.net/killuazoldyck/article/details/72832413" target="_blank" rel="noopener">Zookeeper教程(三):ZooKeeper源码阅读之Worker机制及集群状态监控</a></li><li><a href="https://juejin.im/post/5afb9ab3f265da0b736dd1e1?utm_source=gold_browser_extension" target="_blank" rel="noopener">Java 并发编程 —– AQS（抽象队列同步器</a></li><li><a href="https://juejin.im/entry/5afa38e66fb9a07a9d70784e?utm_source=gold_browser_extension" target="_blank" rel="noopener">Java基础之反射（非常重要</a></li><li><a href="https://juejin.im/post/5aa7818af265da23844040c6" target="_blank" rel="noopener">一起来谈谈 Spring AOP！</a></li><li><a href="https://juejin.im/post/5abb4b565188255c9323555a" target="_blank" rel="noopener">cglib代理的使用</a></li><li><a href="https://juejin.im/post/5af942c6f265da0b7026050c" target="_blank" rel="noopener">JDK10都发布了，nio你了解多少？</a></li><li><a href="https://xbest.github.io/2017/05/12/ThreadPoolExecutor" target="_blank" rel="noopener">Java线程池之ThreadPoolExecutor</a></li><li><a href="https://juejin.im/post/5a3b1dc4f265da43333e9049" target="_blank" rel="noopener">Spring事务机制详解</a></li><li><a href="https://www.jianshu.com/p/7cc1c01f7655" target="_blank" rel="noopener">浅析Java并发编程（三）线程的状态&amp;协作</a></li><li><a href="http://www.cnblogs.com/mengdd/archive/2013/02/20/2917966.html" target="_blank" rel="noopener">Java 多线程（八） 线程状态图</a></li><li><a href="https://juejin.im/post/5a701c246fb9a01cb8100489" target="_blank" rel="noopener">啃碎并发（一）：Java线程总述与概念</a></li><li><a href="https://juejin.im/post/5a38be61f265da431c706d2d" target="_blank" rel="noopener">深入分析Spring 与 Spring MVC容器</a></li><li><a href="https://mp.weixin.qq.com/s/Bhykp6GtfB9wrX5QDrzCTw" target="_blank" rel="noopener">【RPC 专栏】深入理解RPC之序列化篇–总结篇</a><a id="more"></a></li><li><a href="https://juejin.im/post/5a6eceb8f265da3e467555fe" target="_blank" rel="noopener">十分钟搞懂Lombok使用与原理    </a></li><li><a href="https://github.com/xitu/gold-miner" target="_blank" rel="noopener">掘金翻译计划</a></li><li><a href="https://juejin.im/post/5ad3e6b36fb9a028ba1fee6a?utm_source=gold_browser_extension" target="_blank" rel="noopener">Java动态代理</a></li><li><a href="https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#23%E7%A7%8D%E5%B8%B8%E8%A7%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F" target="_blank" rel="noopener">《后端架构师技术图谱》</a></li><li><a href="https://juejin.im/entry/5aee993b5188256731241a94?utm_source=gold_browser_extension" target="_blank" rel="noopener">后端架构师技术图谱</a></li><li><a href="https://juejin.im/post/5aeec249f265da0b886d5101?utm_source=gold_browser_extension" target="_blank" rel="noopener">FutureTask基本操作总结</a></li><li><a href="https://juejin.im/post/5ae55861f265da0ba062ec71" target="_blank" rel="noopener">MySQL命令，一篇文章替你全部搞定</a>    </li><li><a href="https://juejin.im/post/5ae6dc04f265da0ba351d3ff" target="_blank" rel="noopener">彻底理解synchronized</a></li><li><a href="https://juejin.im/post/5ae072906fb9a07a9e4ce596" target="_blank" rel="noopener">git基本操作，一篇文章就够了！</a></li><li><a href="https://juejin.im/post/5af942c6f265da0b7026050c" target="_blank" rel="noopener">JDK10都发布了，nio你了解多少？</a></li><li><a href="https://mp.weixin.qq.com/s/ofb9mIrz0pUrNVZ8RScCTA" target="_blank" rel="noopener">图解CMS垃圾回收机制，你值得拥有</a>         </li><li><a href="https://zhongfucheng.bitcron.com/post/shou-ji/wen-zhang-dao-hang" target="_blank" rel="noopener">Java3y</a></li><li><a href="https://juejin.im/post/5ad40593f265da23750759ad" target="_blank" rel="noopener">Java集合总结【面试题+脑图】，将知识点一网打尽！</a></li><li><a href="https://mp.weixin.qq.com/s/fTz_I1DQMNJnRyVbbULgzg" target="_blank" rel="noopener">深入浅出 Java 微服务视频</a></li><li><a href="https://mp.weixin.qq.com/s/Bhykp6GtfB9wrX5QDrzCTw" target="_blank" rel="noopener">【RPC 专栏】深入理解RPC之序列化篇–总结篇</a></li><li><a href="https://juejin.im/post/5ab86713f265da2398673ff2" target="_blank" rel="noopener">自己用 Netty 实现一个简单的 RPC</a></li><li><a href="https://juejin.im/post/5ae75312f265da0b9d77ffdc" target="_blank" rel="noopener">并发编程之 Java 三把锁</a></li><li><a href="https://juejin.im/post/5a958d8ff265da4e7b44d797" target="_blank" rel="noopener">单点登录与权限管理本质：session和cookie介绍</a></li><li><a href="https://juejin.im/post/5abcbd946fb9a028d1412efc" target="_blank" rel="noopener">深入浅出MyBatis：MyBatis解析和运行原理</a></li><li><a href="https://segmentfault.com/a/1190000007282597" target="_blank" rel="noopener">Netty 源码分析之 零 磨刀不误砍柴工 源码分析环境搭建</a></li><li><a href="https://segmentfault.com/a/1190000004919133" target="_blank" rel="noopener">NettyServer与SpringBoot集成</a></li><li><a href="https://segmentfault.com/a/1190000007282628" target="_blank" rel="noopener">源码之下无秘密─做最好的 Netty 源码分析教程</a></li><li><a href="https://juejin.im/entry/58f46c075c497d006c967cdd" target="_blank" rel="noopener">Java 进阶资源汇总</a></li><li><a href="https://juejin.im/post/5afab181f265da0b7452514a?utm_source=gold_browser_extension" target="_blank" rel="noopener">30 分钟 Python 爬虫教程</a></li><li><a href="https://juejin.im/post/5ac4fb7a6fb9a028c14aaf45" target="_blank" rel="noopener">Netty事件监听和处理（下）【有福利】</a></li><li><a href="https://juejin.im/post/5ac3bb396fb9a028c675e8ad" target="_blank" rel="noopener">Netty事件监听和处理（上）【有福利】</a></li><li><a href="https://juejin.im/post/5af0021e518825671547926e" target="_blank" rel="noopener">老司机的神兵利器-效率工具</a></li><li><a href="https://juejin.im/post/5aa7818af265da23844040c6" target="_blank" rel="noopener">一起来谈谈 Spring AOP！</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Zookeeper&quot;&gt;&lt;a href=&quot;#Zookeeper&quot; class=&quot;headerlink&quot; title=&quot;Zookeeper&quot;&gt;&lt;/a&gt;Zookeeper&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5a3b542d6fb9a0452725c25f&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Zookeeper总览（翻译自Zookeeper官方网站Release 3.4.11版本&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.csdn.net/killuazoldyck/article/details/72832413&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Zookeeper教程(三):ZooKeeper源码阅读之Worker机制及集群状态监控&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5afb9ab3f265da0b736dd1e1?utm_source=gold_browser_extension&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Java 并发编程 —– AQS（抽象队列同步器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/entry/5afa38e66fb9a07a9d70784e?utm_source=gold_browser_extension&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Java基础之反射（非常重要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5aa7818af265da23844040c6&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;一起来谈谈 Spring AOP！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5abb4b565188255c9323555a&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;cglib代理的使用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5af942c6f265da0b7026050c&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;JDK10都发布了，nio你了解多少？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://xbest.github.io/2017/05/12/ThreadPoolExecutor&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Java线程池之ThreadPoolExecutor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5a3b1dc4f265da43333e9049&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Spring事务机制详解&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.jianshu.com/p/7cc1c01f7655&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;浅析Java并发编程（三）线程的状态&amp;amp;协作&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cnblogs.com/mengdd/archive/2013/02/20/2917966.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Java 多线程（八） 线程状态图&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5a701c246fb9a01cb8100489&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;啃碎并发（一）：Java线程总述与概念&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5a38be61f265da431c706d2d&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;深入分析Spring 与 Spring MVC容器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/Bhykp6GtfB9wrX5QDrzCTw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;【RPC 专栏】深入理解RPC之序列化篇–总结篇&lt;/a&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>博客简介</title>
