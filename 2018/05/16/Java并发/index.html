@@ -101,18 +101,18 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
 
 
 
-<meta name="description" content="Zookeeper Zookeeper总览（翻译自Zookeeper官方网站Release 3.4.11版本 Zookeeper教程(三):ZooKeeper源码阅读之Worker机制及集群状态监控 Java 并发编程 —– AQS（抽象队列同步器 Java基础之反射（非常重要 一起来谈谈 Spring AOP！ cglib代理的使用 JDK10都发布了，nio你了解多少？ Java线程池之Thr">
+<meta name="description" content="Zookeeper Zookeeper总览（翻译自Zookeeper官方网站Release 3.4.11版本 Zookeeper教程(三):ZooKeeper源码阅读之Worker机制及集群状态监控 Java 并发编程 —– AQS（抽象队列同步器 JDK8源码分析——并发库核心AbstractQueuedSynchronizer的实现思路 Java基础之反射（非常重要 一起来谈谈 Spring">
 <meta name="keywords" content="Java,多线程">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Java并发">
 <meta property="og:url" content="https://skymoon08.github.io/2018/05/16/Java并发/index.html">
 <meta property="og:site_name" content="zhangsunny">
-<meta property="og:description" content="Zookeeper Zookeeper总览（翻译自Zookeeper官方网站Release 3.4.11版本 Zookeeper教程(三):ZooKeeper源码阅读之Worker机制及集群状态监控 Java 并发编程 —– AQS（抽象队列同步器 Java基础之反射（非常重要 一起来谈谈 Spring AOP！ cglib代理的使用 JDK10都发布了，nio你了解多少？ Java线程池之Thr">
+<meta property="og:description" content="Zookeeper Zookeeper总览（翻译自Zookeeper官方网站Release 3.4.11版本 Zookeeper教程(三):ZooKeeper源码阅读之Worker机制及集群状态监控 Java 并发编程 —– AQS（抽象队列同步器 JDK8源码分析——并发库核心AbstractQueuedSynchronizer的实现思路 Java基础之反射（非常重要 一起来谈谈 Spring">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-05-16T15:13:39.534Z">
+<meta property="og:updated_time" content="2018-05-16T16:32:00.606Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Java并发">
-<meta name="twitter:description" content="Zookeeper Zookeeper总览（翻译自Zookeeper官方网站Release 3.4.11版本 Zookeeper教程(三):ZooKeeper源码阅读之Worker机制及集群状态监控 Java 并发编程 —– AQS（抽象队列同步器 Java基础之反射（非常重要 一起来谈谈 Spring AOP！ cglib代理的使用 JDK10都发布了，nio你了解多少？ Java线程池之Thr">
+<meta name="twitter:description" content="Zookeeper Zookeeper总览（翻译自Zookeeper官方网站Release 3.4.11版本 Zookeeper教程(三):ZooKeeper源码阅读之Worker机制及集群状态监控 Java 并发编程 —– AQS（抽象队列同步器 JDK8源码分析——并发库核心AbstractQueuedSynchronizer的实现思路 Java基础之反射（非常重要 一起来谈谈 Spring">
 
 
 
@@ -413,7 +413,7 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
                 <span title="字数统计">
-                  457
+                  473
                 </span>
               
 
@@ -454,6 +454,7 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
 <li><a href="https://juejin.im/post/5a3b542d6fb9a0452725c25f" target="_blank" rel="noopener">Zookeeper总览（翻译自Zookeeper官方网站Release 3.4.11版本</a></li>
 <li><a href="https://blog.csdn.net/killuazoldyck/article/details/72832413" target="_blank" rel="noopener">Zookeeper教程(三):ZooKeeper源码阅读之Worker机制及集群状态监控</a></li>
 <li><a href="https://juejin.im/post/5afb9ab3f265da0b736dd1e1?utm_source=gold_browser_extension" target="_blank" rel="noopener">Java 并发编程 —– AQS（抽象队列同步器</a></li>
+<li><a href="https://segmentfault.com/a/1190000014866999?utm_source=channel-hottest" target="_blank" rel="noopener">JDK8源码分析——并发库核心AbstractQueuedSynchronizer的实现思路</a></li>
 <li><a href="https://juejin.im/entry/5afa38e66fb9a07a9d70784e?utm_source=gold_browser_extension" target="_blank" rel="noopener">Java基础之反射（非常重要</a></li>
 <li><a href="https://juejin.im/post/5aa7818af265da23844040c6" target="_blank" rel="noopener">一起来谈谈 Spring AOP！</a></li>
 <li><a href="https://juejin.im/post/5abb4b565188255c9323555a" target="_blank" rel="noopener">cglib代理的使用</a></li>
@@ -665,7 +666,7 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-count">9</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -676,7 +677,7 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">分类</span>
                 </a>
               </div>
@@ -687,7 +688,7 @@ color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="//cdn.bootcss.com/canv
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>
