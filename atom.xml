@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://skymoon08.github.io/"/>
-  <updated>2018-05-16T16:33:23.088Z</updated>
+  <updated>2018-05-16T16:38:38.461Z</updated>
   <id>https://skymoon08.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Go学习</title>
+    <link href="https://skymoon08.github.io/2018/05/17/Go%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://skymoon08.github.io/2018/05/17/Go学习/</id>
+    <published>2018-05-16T16:36:42.000Z</published>
+    <updated>2018-05-16T16:38:38.461Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Golang"><a href="#Golang" class="headerlink" title="Golang"></a>Golang</h2><ol><li><a href="https://juejin.im/entry/5afba6516fb9a07ac0226bd4?utm_source=gold_browser_extension" target="_blank" rel="noopener">Go语言开发RESTFul JSON API</a></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Golang&quot;&gt;&lt;a href=&quot;#Golang&quot; class=&quot;headerlink&quot; title=&quot;Golang&quot;&gt;&lt;/a&gt;Golang&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/entry/5afba6516fb9a07
+      
+    
+    </summary>
+    
+      <category term="Go" scheme="https://skymoon08.github.io/categories/Go/"/>
+    
+    
+      <category term="Go" scheme="https://skymoon08.github.io/tags/Go/"/>
+    
+  </entry>
   
   <entry>
     <title>Vim快捷键汇总</title>
@@ -72,15 +98,15 @@
     <link href="https://skymoon08.github.io/2018/05/17/Java/"/>
     <id>https://skymoon08.github.io/2018/05/17/Java/</id>
     <published>2018-05-16T16:29:17.000Z</published>
-    <updated>2018-05-16T16:32:07.775Z</updated>
+    <updated>2018-05-16T16:36:23.173Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h2><ul><li><a href="https://segmentfault.com/a/1190000004685272" target="_blank" rel="noopener">11本Java好书</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="Java"><a href="#Java" class="headerlink" title="Java"></a>Java</h2><ol><li><a href="https://segmentfault.com/a/1190000004685272" target="_blank" rel="noopener">11本Java好书</a></li><li><a href="https://segmentfault.com/a/1190000014866999?utm_source=channel-hottest" target="_blank" rel="noopener">JDK8源码分析——并发库核心AbstractQueuedSynchronizer的实现思路</a> </li><li><a href="https://juejin.im/repo/59ed71b26fb9a066153701e4?utm_source=gold_browser_extension" target="_blank" rel="noopener">HanLP: 汉语言处理包</a></li></ol>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Java&quot;&gt;&lt;a href=&quot;#Java&quot; class=&quot;headerlink&quot; title=&quot;Java&quot;&gt;&lt;/a&gt;Java&lt;/h2&gt;&lt;ul&gt;
+        &lt;h2 id=&quot;Java&quot;&gt;&lt;a href=&quot;#Java&quot; class=&quot;headerlink&quot; title=&quot;Java&quot;&gt;&lt;/a&gt;Java&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000004685272&quot; ta
       
     
@@ -124,9 +150,9 @@
     <link href="https://skymoon08.github.io/2018/05/17/Python%E5%AD%A6%E4%B9%A0/"/>
     <id>https://skymoon08.github.io/2018/05/17/Python学习/</id>
     <published>2018-05-16T16:15:50.000Z</published>
-    <updated>2018-05-16T16:30:27.426Z</updated>
+    <updated>2018-05-16T16:35:28.425Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h2><ul><li><a href="https://segmentfault.com/a/1190000014857167?utm_source=channel-hottest" target="_blank" rel="noopener">献给正在学习python的你，10个最受欢迎的Python开源框架</a></li><li><a href="https://segmentfault.com/a/1190000000517641" target="_blank" rel="noopener"></a></li><li><a href="https://segmentfault.com/a/1190000014862683?utm_source=channel-newest" target="_blank" rel="noopener">Java高级特性入门——泛型、反射和注解</a></li><li><a href="https://segmentfault.com/a/1190000014856080?utm_source=channel-newest" target="_blank" rel="noopener">IT，互联网，科技，技术博客网站推荐</a></li><li><a href="https://segmentfault.com/a/1190000014878786?utm_source=tag-newest" target="_blank" rel="noopener">python基础学习</a></li><li><a href="https://juejin.im/post/5971a4b9f265da6c42353332" target="_blank" rel="noopener">使用 Python+spaCy 进行简易自然语言处理</a></li><li><a href="https://github.com/eastlakeside/interpy-zh" target="_blank" rel="noopener">《Python进阶》（Intermediate Python 中文版</a></li><li><a href="https://manjusaka.itscoder.com/2016/11/18/Someone-tell-me-that-you-think-Python-is-simple/" target="_blank" rel="noopener">Python 太“简单了”</a></li><li><a href="https://github.com/Lafree317/StarterLearningPython" target="_blank" rel="noopener">StarterLearningPython</a></li><li><a href="https://zhuanlan.zhihu.com/p/21332075?f3fb8ead20=bc00bc5a37c4357ffa1baa36d9f96c52" target="_blank" rel="noopener">三天搞定Python</a></li><li><a href="https://pythonguidecn.readthedocs.io/zh/latest/" target="_blank" rel="noopener">Python最佳实践指南！</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h2><ul><li><a href="https://segmentfault.com/a/1190000014857167?utm_source=channel-hottest" target="_blank" rel="noopener">献给正在学习python的你，10个最受欢迎的Python开源框架</a></li><li><a href="https://segmentfault.com/a/1190000000517641" target="_blank" rel="noopener"></a></li><li><a href="https://segmentfault.com/a/1190000014862683?utm_source=channel-newest" target="_blank" rel="noopener">Java高级特性入门——泛型、反射和注解</a></li><li><a href="https://segmentfault.com/a/1190000014856080?utm_source=channel-newest" target="_blank" rel="noopener">IT，互联网，科技，技术博客网站推荐</a></li><li><a href="https://segmentfault.com/a/1190000014878786?utm_source=tag-newest" target="_blank" rel="noopener">python基础学习</a></li><li><a href="https://juejin.im/post/5971a4b9f265da6c42353332" target="_blank" rel="noopener">使用 Python+spaCy 进行简易自然语言处理</a></li><li><a href="https://github.com/eastlakeside/interpy-zh" target="_blank" rel="noopener">《Python进阶》（Intermediate Python 中文版</a></li><li><a href="https://manjusaka.itscoder.com/2016/11/18/Someone-tell-me-that-you-think-Python-is-simple/" target="_blank" rel="noopener">Python 太“简单了”</a></li><li><a href="https://github.com/Lafree317/StarterLearningPython" target="_blank" rel="noopener">StarterLearningPython</a></li><li><a href="https://zhuanlan.zhihu.com/p/21332075?f3fb8ead20=bc00bc5a37c4357ffa1baa36d9f96c52" target="_blank" rel="noopener">三天搞定Python</a></li><li><a href="https://pythonguidecn.readthedocs.io/zh/latest/" target="_blank" rel="noopener">Python最佳实践指南！</a></li><li><a href="https://note.youdao.com/share/?id=1264477d5ab2e532f014e98b2fbcab98&amp;type=notebook#/" target="_blank" rel="noopener">Python基础学习</a></li></ul>]]></content>
     
     <summary type="html">
     

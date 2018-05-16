@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Go学习]]></title>
+    <url>%2F2018%2F05%2F17%2FGo%E5%AD%A6%E4%B9%A0%2F</url>
+    <content type="text"><![CDATA[Golang Go语言开发RESTFul JSON API]]></content>
+      <categories>
+        <category>Go</category>
+      </categories>
+      <tags>
+        <tag>Go</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Vim快捷键汇总]]></title>
     <url>%2F2018%2F05%2F17%2Fvim%2F</url>
     <content type="text"><![CDATA[vim快捷键]]></content>
@@ -25,7 +36,7 @@
   <entry>
     <title><![CDATA[Java]]></title>
     <url>%2F2018%2F05%2F17%2FJava%2F</url>
-    <content type="text"><![CDATA[Java 11本Java好书]]></content>
+    <content type="text"><![CDATA[Java 11本Java好书 JDK8源码分析——并发库核心AbstractQueuedSynchronizer的实现思路 HanLP: 汉语言处理包]]></content>
       <categories>
         <category>Java</category>
       </categories>
@@ -47,7 +58,7 @@
   <entry>
     <title><![CDATA[Python学习]]></title>
     <url>%2F2018%2F05%2F17%2FPython%E5%AD%A6%E4%B9%A0%2F</url>
-    <content type="text"><![CDATA[Python 献给正在学习python的你，10个最受欢迎的Python开源框架 Java高级特性入门——泛型、反射和注解 IT，互联网，科技，技术博客网站推荐 python基础学习 使用 Python+spaCy 进行简易自然语言处理 《Python进阶》（Intermediate Python 中文版 Python 太“简单了” StarterLearningPython 三天搞定Python Python最佳实践指南！]]></content>
+    <content type="text"><![CDATA[Python 献给正在学习python的你，10个最受欢迎的Python开源框架 Java高级特性入门——泛型、反射和注解 IT，互联网，科技，技术博客网站推荐 python基础学习 使用 Python+spaCy 进行简易自然语言处理 《Python进阶》（Intermediate Python 中文版 Python 太“简单了” StarterLearningPython 三天搞定Python Python最佳实践指南！ Python基础学习]]></content>
       <categories>
         <category>Python</category>
       </categories>
