@@ -14,7 +14,7 @@
   <entry>
     <title><![CDATA[Go学习]]></title>
     <url>%2F2018%2F05%2F17%2FGo%E5%AD%A6%E4%B9%A0%2F</url>
-    <content type="text"><![CDATA[Golang Go语言开发RESTFul JSON API]]></content>
+    <content type="text"><![CDATA[Golang Go语言开发RESTFul JSON API Golang 微服务教程（一）]]></content>
       <categories>
         <category>Go</category>
       </categories>
@@ -42,6 +42,39 @@
       </categories>
       <tags>
         <tag>ETH</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[RPC服务治理]]></title>
+    <url>%2F2018%2F05%2F17%2FRPC%E6%9C%8D%E5%8A%A1%E6%A1%86%E6%9E%B6%2F</url>
+    <content type="text"><![CDATA[后端必备——数据通信知识(RPC、消息队列)一站式总结]]></content>
+      <categories>
+        <category>Redis</category>
+      </categories>
+      <tags>
+        <tag>Redis</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Redis集群搭建]]></title>
+    <url>%2F2018%2F05%2F17%2Fredis%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA%2F</url>
+    <content type="text"><![CDATA[redis集群原理及搭建与使用]]></content>
+      <categories>
+        <category>ETH</category>
+      </categories>
+      <tags>
+        <tag>Redis</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[分布式理论(一) - CAP定理]]></title>
+    <url>%2F2018%2F05%2F17%2F%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA%2F</url>
+    <content type="text"><![CDATA[分布式理论(一) - CAP定理 分布式理论(二) - BASE理论 分布式理论(三) - 2PC协议 分布式理论(四) - 3PC协议 分布式理论(五) - 一致性算法Paxos 分布式理论(六) - 一致性协议Raft]]></content>
+      <categories>
+        <category>分布式理论</category>
+      </categories>
+      <tags>
+        <tag>分布式</tag>
       </tags>
   </entry>
   <entry>

@@ -47,9 +47,9 @@
     <link href="https://skymoon08.github.io/2018/05/17/Go%E5%AD%A6%E4%B9%A0/"/>
     <id>https://skymoon08.github.io/2018/05/17/Go学习/</id>
     <published>2018-05-16T16:36:42.000Z</published>
-    <updated>2018-05-16T16:39:05.062Z</updated>
+    <updated>2018-05-30T13:29:27.089Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Golang"><a href="#Golang" class="headerlink" title="Golang"></a>Golang</h2><ol><li><a href="https://juejin.im/entry/5afba6516fb9a07ac0226bd4?utm_source=gold_browser_extension" target="_blank" rel="noopener">Go语言开发RESTFul JSON API</a></li></ol>]]></content>
+    <content type="html"><![CDATA[<h2 id="Golang"><a href="#Golang" class="headerlink" title="Golang"></a>Golang</h2><ol><li><a href="https://juejin.im/entry/5afba6516fb9a07ac0226bd4?utm_source=gold_browser_extension" target="_blank" rel="noopener">Go语言开发RESTFul JSON API</a></li><li><a href="https://juejin.im/entry/5b0e41bc51882515322f6efa" target="_blank" rel="noopener">Golang 微服务教程（一）</a></li></ol>]]></content>
     
     <summary type="html">
     
@@ -116,6 +116,87 @@
     
     
       <category term="ETH" scheme="https://skymoon08.github.io/tags/ETH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RPC服务治理</title>
+    <link href="https://skymoon08.github.io/2018/05/17/RPC%E6%9C%8D%E5%8A%A1%E6%A1%86%E6%9E%B6/"/>
+    <id>https://skymoon08.github.io/2018/05/17/RPC服务框架/</id>
+    <published>2018-05-16T16:31:16.000Z</published>
+    <updated>2018-06-25T15:59:38.638Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li><a href="https://juejin.im/post/5b2cb6fdf265da599e6c459e?utm_source=gold_browser_extension" target="_blank" rel="noopener">后端必备——数据通信知识(RPC、消息队列)一站式总结</a></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5b2cb6fdf265da599e6c459e?utm_source=gold_browser_extension&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;后端必备——数据
+      
+    
+    </summary>
+    
+      <category term="Redis" scheme="https://skymoon08.github.io/categories/Redis/"/>
+    
+    
+      <category term="Redis" scheme="https://skymoon08.github.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis集群搭建</title>
+    <link href="https://skymoon08.github.io/2018/05/17/redis%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/"/>
+    <id>https://skymoon08.github.io/2018/05/17/redis集群搭建/</id>
+    <published>2018-05-16T16:31:16.000Z</published>
+    <updated>2018-06-25T15:59:33.027Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li><a href="https://juejin.im/post/5ad54d76f265da23970759d3" target="_blank" rel="noopener">redis集群原理及搭建与使用</a></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5ad54d76f265da23970759d3&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;redis集群原理及搭建与使用&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+      
+    
+    </summary>
+    
+      <category term="ETH" scheme="https://skymoon08.github.io/categories/ETH/"/>
+    
+    
+      <category term="Redis" scheme="https://skymoon08.github.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分布式理论(一) - CAP定理</title>
+    <link href="https://skymoon08.github.io/2018/05/17/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/"/>
+    <id>https://skymoon08.github.io/2018/05/17/分布式理论/</id>
+    <published>2018-05-16T16:31:16.000Z</published>
+    <updated>2018-06-25T13:54:04.197Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li><a href="https://juejin.im/post/5b26634b6fb9a00e765e75d1" target="_blank" rel="noopener">分布式理论(一) - CAP定理</a></li><li><a href="https://juejin.im/post/5b2663fcf265da59a401e6f8" target="_blank" rel="noopener">分布式理论(二) - BASE理论</a></li><li><a href="https://juejin.im/post/5b2664446fb9a00e4a53136e" target="_blank" rel="noopener">分布式理论(三) - 2PC协议</a></li><li><a href="https://juejin.im/post/5b26648e5188257494641b9f" target="_blank" rel="noopener">分布式理论(四) - 3PC协议</a></li><li><a href="https://juejin.im/post/5b2664bd51882574874d8a76" target="_blank" rel="noopener">分布式理论(五) - 一致性算法Paxos</a></li><li><a href="https://juejin.im/post/5b2664e2f265da59584d8c90" target="_blank" rel="noopener">分布式理论(六) - 一致性协议Raft</a></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://juejin.im/post/5b26634b6fb9a00e765e75d1&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;分布式理论(一) - CAP定理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;htt
+      
+    
+    </summary>
+    
+      <category term="分布式理论" scheme="https://skymoon08.github.io/categories/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="分布式" scheme="https://skymoon08.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
     
   </entry>
   
